@@ -9,9 +9,7 @@
     "name": "typicode"
   },
   "workflows": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+    {"id": 1, "workflowname": "Office Tasks", "Status":"Pending"},
+    {"id": 2, "workflowname": "Personal Tasks", "Status":"Completed"},
   ]
 }
